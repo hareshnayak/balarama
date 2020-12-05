@@ -1,0 +1,58 @@
+body{
+    font-family: Montserrat;
+    text-align: center;
+}
+
+
+/* Headings */
+h1, h2,h3, h4, h5, h6{
+    font-family: Montserrat;
+    color: white;
+}
+
+/* Title Section */
+#title{
+    text-align: left;
+}
+
+#title .container-fluid{
+    padding: 3% 15% 7% 15%;
+}
+
+.navbar{
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand{
+    font-family: Ubuntu;
+    font-size: 5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-family: Montserrat-Light;
+    font-size: 2 rem;
+}
+
+.new-coloured-section{
+    background-image: url(http://il2.picdn.net/shutterstock/videos/6985639/thumb/1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 100px;
+    /* background-color: green;
+    color: #FFF; */
+}
+
+/* Footer Section */
+#footer p{
+    color: #8f8f8f;
+    padding-top: 2%;
+}
+
+#footer i{
+    padding: 20px 10px;
+}
